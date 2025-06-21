@@ -1,0 +1,37 @@
+
+
+body{
+background-color: #EEF2F3 ;
+font-family: 'Courier New', Courier, monospace;
+padding: 30px;
+display: flex;
+justify-content: center;
+}
+
+.bemutatkozo {
+    width: 700px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.bemutatkozo img {
+    border-radius: 50%;
+    width: 200px;
+    padding: 20px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.kep {
+    text-align: center;
+}
+
